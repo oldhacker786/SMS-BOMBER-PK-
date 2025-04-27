@@ -82,7 +82,7 @@ async function regenerateOTP() {
     console.log("----------------------------------------");
     console.log("Developer: TEAM BLACK HAT");
     console.log("----------------------------------------");
-    console.log("Credit RealCyropes");
+    console.log("OLD-HACKER");
     
     if (i < otp_count) {
       await sleep(1000); // 1 second delay
