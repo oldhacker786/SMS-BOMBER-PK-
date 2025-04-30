@@ -31,7 +31,7 @@ fi
 api_url="https://shadowtools.site/sms-bomber.php"
 
 # Get mobile number
-read -p "Enter Mobile Number (with country code, e.g. 919876543210): " mobile_number
+read -p "Enter Mobile Number (without country code, e.g. 03004400440): " mobile_number
 
 # Validate mobile number format
 if [[ ! $mobile_number =~ ^[0-9]{10,12}$ ]]; then
