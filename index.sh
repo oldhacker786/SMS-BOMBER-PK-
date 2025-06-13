@@ -59,7 +59,7 @@ if [ "$choice" == "1" ]; then
       "mobile_number": "'"$mobile_number"'",
       "password": "Abcd1234$@.",
       "user_type": "3",
-      "apiKey": "cs3pqO4xW6zFsRH5kaLomFPJHsHdQrWe",
+      "apiKey": "678A3E23F493F00A2C5985477C52E066",
       "imei": "123",
       "latitude": "0.0",
       "longitude": "0.0",
